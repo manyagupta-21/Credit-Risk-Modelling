@@ -34,7 +34,7 @@ Focus on handling class imbalance and improving model performance in a risk-sens
 ---
 
 ## Results
-- Best model: Ensemble methods (RF / XGBoost)  
+- Best model: XGBoost 
 - **ROC-AUC:** 0.778  
 - **F1 Score:** 0.53  
 
